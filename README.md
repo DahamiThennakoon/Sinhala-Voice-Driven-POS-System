@@ -73,6 +73,40 @@ Copy `.env.example` to `.env` inside the `frontend/` folder and fill in any requ
 5. Extracted items are fuzzy-matched against the product database
 6. Matched items are added to the active cart on the POS screen
 
+## Screenshots
+
+### Login
+![Dashboard](screenshots/login.png)
+
+### Register
+![Dashboard](screenshots/register_1.png)
+![Dashboard](screenshots/register_2.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard_1.png)
+![Dashboard](screenshots/dashboard_2.png)
+
+### New Sale
+![Dashboard](screenshots/new_sale.png)
+
+### Items
+![Dashboard](screenshots/items.png)
+
+### Stock
+![Dashboard](screenshots/stock.png)
+
+### Expenses
+![Dashboard](screenshots/expenses.png)
+
+### Sales History
+![Dashboard](screenshots/sales_history.png)
+
+### Reports
+![Dashboard](screenshots/reports.png)
+
+### Settings
+![Dashboard](screenshots/settings.png)
+
 ## Status
 
 ✅ Completed as a university mini project. All core features — voice pipeline, POS, inventory, sales, expenses, reports, settings, and auth — are implemented and functional.
