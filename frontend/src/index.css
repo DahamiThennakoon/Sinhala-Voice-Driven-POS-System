@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body { @apply h-full; }
+  body { @apply bg-gray-50 text-gray-900 antialiased; }
+  ::selection { @apply bg-primary-100 text-primary-900; }
+}
+
+@layer utilities {
+  .scrollbar-thin::-webkit-scrollbar { width: 6px; height: 6px; }
+  .scrollbar-thin::-webkit-scrollbar-thumb { @apply bg-gray-300 rounded-full; }
+  .focus-ring { @apply outline-none focus-visible:ring-2 focus-visible:ring-primary-500 focus-visible:ring-offset-2; }
+}
