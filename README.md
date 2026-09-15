@@ -1,7 +1,5 @@
 # Sinhala Voice Driven POS System 🎙️🧾
 
-# SinhalaPOS 🎙️🧾
-
 A Sinhala-language, voice-enabled Point of Sale (POS) system built for small shops and retail businesses. Speak a sale in Sinhala, and it gets transcribed, understood, and added straight to the cart.
 
 ## Features
